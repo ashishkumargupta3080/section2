@@ -1,10 +1,8 @@
-# section2
-i am using vite react becouse it is very easy fast to use .
+# React + Vite
 
-1 - install node packedge use "npm i"  on terminal.
-login id - ashish7762
-      password - ashish7762
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-      in terminal ---
+Currently, two official plugins are available:
 
-      go to path then write "npm run dev" then enter
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
